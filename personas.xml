@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Personas>
+<Persona>
+    <Nombre>Hector</Nombre>
+    <Edad>21</Edad>
+</Persona>
+<Persona>
+    <Nombre>Carmela</Nombre>
+    <Edad>49</Edad>
+</Persona>
+</Personas>
