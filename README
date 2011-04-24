@@ -1,0 +1,37 @@
+1. DESCRIPCION
+
+Xml-Form 1.0 es una clase creada con un único objetivo, facilitar la edición de documentos XML via navegador Web. 
+El objetivo de este proyecto es poder generar un entorno agradable para la edición de una forma rápida y fácil,
+sin que el administrador tenga que generar un entorno específico para ese documento.
+
+
+2. FUNCIONAMIENTO ACTUAL
+
+Incluir la clase:
+
+	include'xml_form.php';
+
+Instanciar el objeto, pasando dos variables, ruta del archivo xml y campo para mostrar en la edición:
+
+	$xml = new xml_form('personas.xml', 'Nombre');
+
+Finalmente llamamos al método form:
+
+	$xml->form();
+
+3. REQUISITOS
+
+Servidor Web con soporte para PHP 5. 
+Para versiones anteriores de PHP puede probar:
+http://www.phpclasses.org/package/4484-PHP-Load-XML-files-in-PHP-4-like-SimpleXML-extension.html
+
+4. FUTURAS IMPLEMENTACIONES
+
+- Inserción de nuevos valores.
+- Análisis y edición de atributos.
+
+5. CONTACTO
+
+Para más información o consejos:
+
+hcostaguzman@gmail.com
