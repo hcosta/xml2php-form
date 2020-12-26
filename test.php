@@ -5,8 +5,8 @@
 <head></head>
 <body>
 <?php 
-	$xml = new xml_form("AnimeList.xml","Titulo");	
-	$xml->form();
+	// $xml = new xml_form("AnimeList.xml","Titulo");	
+	// $xml->form();
 	
 	$xml2 = new xml_form("personas.xml","Nombre");	
 	$xml2->form();

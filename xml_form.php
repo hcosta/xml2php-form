@@ -4,8 +4,8 @@
  *
  * Genera diferentes formularios con PHP para editar archivos xml
  *
- * @author Hector Costa Guzman [hektor111]
- * @author http://www.hcosta.info
+ * @author Hector Costa Guzman [hektorprofe]
+ * @author http://www.hektorprofe.net
  * @version 1.0
  * @package xml_form 
  */

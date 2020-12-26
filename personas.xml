@@ -1,11 +1,20 @@
 <?xml version="1.0"?>
 <Personas>
-<Persona>
-    <Nombre>Hector</Nombre>
-    <Edad>21</Edad>
-</Persona>
-<Persona>
-    <Nombre>Carmela</Nombre>
-    <Edad>49</Edad>
-</Persona>
+	<Persona>
+	    <Nombre>Héctor</Nombre>
+	    <Apellido>Costa</Apellido>
+	    <Edad>31</Edad>
+	</Persona>
+	<Persona>
+	    <Nombre>Elvira</Nombre>
+	    <Apellido>Santos</Apellido>
+	    <Edad>23</Edad>
+	</Persona>
+	<Persona>
+	    <Nombre>Francisco</Nombre>
+	    <Apellido>Pérez</Apellido>
+	    <Edad>49</Edad>
+	</Persona>
 </Personas>
+
+
